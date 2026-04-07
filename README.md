@@ -1,22 +1,29 @@
-<!-- 🌊 Animated Header -->
+<!-- 🌊 Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sahana%20F&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:7b2ff7,100:f953c6&height=200&section=header&text=Sahana%20F&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 </p>
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&lines=Full-Stack+Developer;Bioinformatics+Student;AI+%7C+ML+Enthusiast;Building+Real-World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F953C6&center=true&vCenter=true&lines=💻+Full-Stack+Developer;🤖+AI+%7C+ML+Enthusiast;🚀+Building+Real-World+Projects;✨+Tech+%2B+Creativity"/>
 </p>
 
 ---
 
-# 💫 About Me
-🔭 I’m currently building full-stack applications using React.js and Node.js  
-👯 I’m open to collaborating on web development, AI, and open-source projects  
-🤝 I’m exploring backend development, REST APIs, and scalable systems  
-🌱 I’m learning advanced Java, JavaScript, React, Node.js, and Machine Learning  
-💬 Ask me about JavaScript, React, Node.js, Python, and full-stack development  
-⚡ Fun fact: Bioinformatics student passionate about combining technology with real-world problem solving  
+<!-- 💎 Glassmorphism About Card -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=1&pause=100000&color=7B2FF7&center=true&vCenter=true&lines=💫+Full-Stack+Developer+%7C+AI+Enthusiast+%7C+Creative+Builder"/>
+</p>
+
+---
+
+## 💫 About Me
+🔭 Building full-stack apps using React.js & Node.js  
+👯 Open to collaborations in web dev & AI  
+🤝 Exploring backend, APIs & scalable systems  
+🌱 Learning advanced JS, React, Node & ML  
+💬 Ask me about Web Dev, Python & AI  
+⚡ Fun fact: Turning ideas into real-world applications 🚀  
 
 ---
 
@@ -26,44 +33,39 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧬 AI-Based DNA Repair Prediction
-- Machine learning model to predict DNA repair efficiency  
-- Provides probability scores, GC content & visualization  
-
-### 🛒 E-Commerce Websites
-- Cake ordering platform 🍰  
-- Nail salon booking system 💅  
-- Café website ☕  
-
-### 🌿 Plant Disease Detection
-- CNN model using TensorFlow & OpenCV  
-- Classifies plant diseases with high accuracy  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-90%25-blue)
-![Java](https://img.shields.io/badge/Java-70%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanafrancis24&repo=DNA-Repair-Prediction&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanafrancis24&repo=Ecommerce-Website&theme=tokyonight" />
+</p>
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-75%25-blue)
-![Node.js](https://img.shields.io/badge/Node.js-70%25-green)
-
-### 🤖 AI & Data
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-80%25-red)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-70%25-purple)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahanafrancis24&repo=Plant-Disease-Detection&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahanafrancis24&show_icons=true&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sahanafrancis24&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sahanafrancis24&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -81,21 +83,21 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahanafrancis24&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahanafrancis24&theme=radical&no-frame=true" />
 </p>
 
 ---
 
 ## ✨ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 ## 👀 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sahanafrancis24&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=sahanafrancis24&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ---
